@@ -3,10 +3,11 @@ public class Demo {
    
    public static void main(String[] args ){
       
-      show1();
+      show()11111;
    }
 
-   private static void show1(){
+   public void show()11111{
+   
    System.out.println("aaaaaa");
    }
 }
