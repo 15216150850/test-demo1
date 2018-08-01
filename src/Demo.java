@@ -6,8 +6,7 @@ public class Demo {
       show();
    }
 
-   public void show(){
-   
+   private static void show(){
    System.out.println("aaaaaa");
    }
 }
